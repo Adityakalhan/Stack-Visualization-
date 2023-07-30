@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-stack",
+      "appliesTo": "cg-final-stack/stack.cpp",
+      "type": "launch"
+    }
+  ]
+}
